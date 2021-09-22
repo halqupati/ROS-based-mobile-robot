@@ -76,5 +76,4 @@ This package uses the [ROS Navigation stack](http://wiki.ros.org/navigation) to 
 
 ![photo_2021-09-13_21-32-28 (2)](https://user-images.githubusercontent.com/48286288/134373881-0d97f86f-be57-4d8f-997a-0ceeb52f3940.jpg)
 
-https://user-images.githubusercontent.com/48286288/134375639-04e31d4f-ec47-4d65-a786-871e8bfd88e3.MOV
-)
+![video](https://user-images.githubusercontent.com/48286288/134375639-04e31d4f-ec47-4d65-a786-871e8bfd88e3.MOV)
