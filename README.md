@@ -1,11 +1,3 @@
-# ROS based mobile robot
- Mobile robot used ROS to naviagtion and SLAM.
-
-
-#yemenbot navigation
-![yemen_robot](https://user-images.githubusercontent.com/48286288/133316567-83c062c2-7f85-48fc-a539-48482f5c1bc4.gif)
-
-
 # yemenbot
 
 This ROS package implements SLAM on a 2 wheeled differential drive robot to map an unknown environment. A joystick or keyboard is used to teleoperate the robot in Gazebo. The map generated is then used for autonomous navigation using the ROS Navigation stack.
@@ -76,4 +68,4 @@ This package uses the [ROS Navigation stack](http://wiki.ros.org/navigation) to 
 
 ![photo_2021-09-13_21-32-28 (2)](https://user-images.githubusercontent.com/48286288/134373881-0d97f86f-be57-4d8f-997a-0ceeb52f3940.jpg)
 
-![video](https://user-images.githubusercontent.com/48286288/134375639-04e31d4f-ec47-4d65-a786-871e8bfd88e3.MOV)
+https://user-images.githubusercontent.com/48286288/134385255-a619b2b3-4c68-4be7-9a3e-2b205758ed6f.MOV
